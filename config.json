@@ -1,0 +1,8 @@
+{
+    "name": "mainservice-service",
+    "version": "1.0.547",
+    "private": false,
+    "environment": "production",
+    "build_id": 664,
+    "allow_public_access": true
+}
